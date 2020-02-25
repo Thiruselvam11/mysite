@@ -1,0 +1,29 @@
+.backser{
+    margin-top: -45%;
+    
+}
+img{
+    
+    display: flex;
+}
+.card flex {   
+    width: 66px;
+    height: 60px;
+}
+
+.btn-goust
+  {
+    border: 1px solid #e67e22;
+      color:#e67e22; 
+      border-radius: 20px;
+      width:20px;
+      height:10px;
+  }
+
+.btn-goust:hover,
+.btn-goust:active
+  {
+    background-color: #e67e22;
+    color: white;
+  }
+
